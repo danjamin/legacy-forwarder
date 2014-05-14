@@ -1,0 +1,26 @@
+{
+  "name": "legacy-forwarder",
+  "version": "0.0.0",
+  "description": "forwards /dan and /steve",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dangim/legacy-forwarder.git"
+  },
+  "author": "dangim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dangim/legacy-forwarder/issues"
+  },
+  "homepage": "https://github.com/dangim/legacy-forwarder",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "express": "^4.2.0",
+    "logfmt": "^1.1.2"
+  }
+}
